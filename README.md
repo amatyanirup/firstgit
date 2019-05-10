@@ -1,1 +1,2 @@
 # firstgit
+Learning about github
